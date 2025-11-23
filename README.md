@@ -6,51 +6,51 @@ Este repositório apresenta o trabalho desenvolvido na disciplina de Desenvolvim
 
 A disciplina tem como foco introduzir o aluno aos fundamentos do desenvolvimento para web, compreendendo:
 
-Estrutura básica de páginas HTML
+Estrutura básica de páginas HTML.
 
-Boas práticas de marcação
+Boas práticas de marcação.
 
-Organização de conteúdo
+Organização de conteúdo.
 
-Primeiros passos para criação de sites funcionais
+Primeiros passos para criação de sites funcionais.
 
 ## Projeto Desenvolvido
 
 Durante o curso, desenvolvemos um site em HTML para aplicar os conceitos apresentados em sala. O projeto abordou:
 
-Estrutura semântica (header, nav, section, article, footer)
+Estrutura semântica (header, nav, section, article, footer).
 
-Inserção de textos, imagens e links
+Inserção de textos, imagens e links.
 
-Criação de páginas internas
+Criação de páginas internas.
 
 Navegação entre páginas
 
 ## Conteúdo Trabalhado em Aula
-O que é HTML
+O que é HTML.
 
-Estrutura básica: <!DOCTYPE html>, <html>, <head>, <body>
+Estrutura básica: <!DOCTYPE html>, <html>, <head>, <body> .
 
-Planejamento da estrutura
+Planejamento da estrutura.
 
-Criação das páginas principais
+Criação das páginas principais.
 
-Navegação entre páginas com menus
+Navegação entre páginas com menus.
 
-Arquivos HTML do site
+Arquivos HTML do site.
 
-Pasta de imagens
+Pasta de imagens.
 
-Estruturação completa do projeto
+Estruturação completa do projeto.
 
-README explicativo
+README explicativo.
 
 ## Aprendizados
 
-Estruturar páginas utilizando HTML semântico
+Estruturar páginas utilizando HTML semântico.
 
-Montar sites simples com múltiplas páginas
+Montar sites simples com múltiplas páginas.
 
-Organizar diretórios e arquivos de um projeto web
+Organizar diretórios e arquivos de um projeto web.
 
-Aplicar boas práticas na criação de código limpo e legível
+Aplicar boas práticas na criação de código limpo e legível.

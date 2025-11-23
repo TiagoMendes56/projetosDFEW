@@ -28,11 +28,8 @@ Navegação entre páginas
 
 ## Conteúdo Trabalhado em Aula
 O que é HTML.
-
-Estrutura básica: (-<!DOCTYPE html>-,-<html>-, -<head>-,-<body>- ) .
-
+Estrutura básica.
 Planejamento da estrutura.
-
 Criação das páginas principais.
 
 Navegação entre páginas com menus.

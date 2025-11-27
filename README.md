@@ -18,13 +18,13 @@ Primeiros passos para criação de sites funcionais.
 
 Durante o curso, desenvolvemos um site em HTML para aplicar os conceitos apresentados em sala. O projeto abordou:
 
-Estrutura semântica (header, nav, section, article, footer).
+- Estrutura semântica (header, nav, section, article, footer).
 
-Inserção de textos, imagens e links.
+- Inserção de textos, imagens e links.
 
-Criação de páginas internas.
+- Criação de páginas internas.
 
-Navegação entre páginas
+- Navegação entre páginas
 
 ## Conteúdo Trabalhado em Aula
 O que é HTML.
@@ -47,10 +47,10 @@ README explicativo.
 
 ## Aprendizados
 
-Estruturar páginas utilizando HTML semântico.
+- Estruturar páginas utilizando HTML semântico.
 
-Montar sites simples com múltiplas páginas.
+- Montar sites simples com múltiplas páginas.
 
-Organizar diretórios e arquivos de um projeto web.
+- Organizar diretórios e arquivos de um projeto web.
 
-Aplicar boas práticas na criação de código limpo e legível.
+- Aplicar boas práticas na criação de código limpo e legível.
